@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi everyone!
 
+My name is Trevor and I'm a current student in the Metis Data Scientist program in NYC.  I am looking to apply my analytics skills to help companies solve challenging big data problems.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A data scientist with digital attribution experience.  Always looking to solve challenging problems!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[trevor.stuard@gmail.com](mailto:trevor.stuard@gmail.com)
